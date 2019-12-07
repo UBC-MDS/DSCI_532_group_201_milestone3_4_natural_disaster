@@ -13,7 +13,7 @@ Our application analyszes past earthquakes around the world to visualize the num
 
 Suppose, Bob is working for an international humanitarian organization. He is trying to see where to allocate funds for earthquake diaster relief. He wants to explore historical data of how earthquakes affected different countries. This helps him to decide which countries are most effected by earthquakes every year. While using our Dash app, he noticed that in terms of absolute deaths per year due to earthquakes, China and India appeared to be highest every single year. However, while exploring the percentage that eqarthquakes contribute to the annual death rate, he discovered that Haiti was the highest due to the small population of the country. From this data, Bob was able to make the informed decision that it is best to provide monetary support to Haiti instead. 
 
-Please read our full proposal [here](https://github.com/UBC-MDS/DSCI_532_group_201_milestone_1/blob/master/proposal.md).
+Please read our full proposal [here](https://github.com/UBC-MDS/DSCI_532_group_201_milestone3_4_natural_disaster/blob/master/proposal.md).
 
 
 
@@ -23,7 +23,7 @@ Please read our full proposal [here](https://github.com/UBC-MDS/DSCI_532_group_2
 <html>
 
 ## Natural Disaster Dash App
-[Here](https://natural-disaster-milestone2.herokuapp.com) is the link to the deployed Python Dash App on Heroku.
+[Here](https://natural-disaster-submission.herokuapp.com) is the link to the latest deployed Python Dash App on Heroku.
 
 ## Functionality of the Dash App
 

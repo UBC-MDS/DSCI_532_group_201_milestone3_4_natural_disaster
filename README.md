@@ -19,7 +19,7 @@ Please read our full proposal [here](https://github.com/UBC-MDS/DSCI_532_group_2
 
 ## Sketch
 <html>
-  <img src = "images/sketch_v1.png" />
+  <img src = "imgs/sketch_v1.png" />
 <html>
 
 ## Natural Disaster Dash App

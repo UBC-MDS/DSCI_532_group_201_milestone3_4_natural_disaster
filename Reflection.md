@@ -1,6 +1,7 @@
 # Reflections
 
 ## Addressing Previous TA Comments:
+
 - **Comment:** Be careful to not copy text form your proposal usage scenario into your README.md. You need a separate description!
 - **How this was address:** We wrote an eloquent introduction to our app. Read it, you'll be inspired.
 <br>

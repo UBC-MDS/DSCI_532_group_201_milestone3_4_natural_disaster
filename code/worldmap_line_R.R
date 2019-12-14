@@ -95,7 +95,7 @@ updatemenus <- list(
   )))
 
 # drawing the plot
-p <- line_chart_data %>%
+p_line <- line_chart_data %>%
   plot_ly(type = 'scatter', mode = 'lines') %>%
   add_lines(x=~Year, y=~China, name="China",
             line=list(color="#F06A6A")) %>%
@@ -117,13 +117,13 @@ p <- line_chart_data %>%
             line=list(color="#F06A6A"), visible = FALSE) %>%
   add_lines(x=~Year, y=~Nepal, name="Nepal",
             line=list(color="#F06A6A"), visible = FALSE) %>%
-  layout(title = "Please select a country", showlegend=FALSE,
+  layout(title = "Please Select a Country - Default (China)", showlegend=FALSE,
          xaxis=list(title="Year"),
          yaxis=list(title="Death Rate on Log Scale 10", type = "log"),
          updatemenus=updatemenus)
 
 # iframe api set-up
 Sys.setenv("plotly_username"="jasmineqyj")
-Sys.setenv("plotly_api_key"="wUGGIiyT6HAZSUvAe8ym")
+Sys.setenv("plotly_api_key"="wPXK4qnNzNuEZbQi7M23")
 
-api_create(p, filename = "country_line")
+api_create(p_line, filename = "country_line")

@@ -37,7 +37,7 @@ app$callback(
     else if(tab == 'tab-2'){
       return(htmlDiv(list(
         htmlP('Plot 1 (top): This plot shows the impact that earthquakes have had on different countries over the years.', style = list(fontFamily = 'Helvetica')),
-        htmlP('Plot 2 (bottom): This plot shows the historical trend of earthquake for a given country.', style = list(fontFamily = 'Helvetica')),
+        htmlP('Plot 2 (bottom): This plot shows the historical trend of earthquake for the top 10 countries.', style = list(fontFamily = 'Helvetica')),
 
         htmlDiv(list(
           

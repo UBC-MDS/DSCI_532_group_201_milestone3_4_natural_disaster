@@ -40,3 +40,7 @@ We are working on our Dash R App in milestone 3 and miletsone 4. We have created
 <html>
   <img src = "imgs/DashR-progress.png" />
 <html>
+
+
+## Deploy
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)

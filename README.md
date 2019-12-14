@@ -22,8 +22,9 @@ Please read our full proposal [here](https://github.com/UBC-MDS/DSCI_532_group_2
   <img src = "imgs/sketch_v1.png" />
 <html>
 
-## Natural Disaster Dash App
-[Here](https://natural-disaster-submission.herokuapp.com) is the link to the latest deployed Python Dash App on Heroku.
+## Natural Disaster Dash Apps
+[Here](https://natural-disaster-submission.herokuapp.com) is the link to the latest deployed **Python** Dash App on Heroku.
+[Here](https://natural-disaster-rdash.herokuapp.com) is the link to the latest deployed **R** Dash App on Heroku.
 
 ## Functionality of the Dash App
 

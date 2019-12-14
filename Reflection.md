@@ -1,5 +1,30 @@
 # Reflections
 
+## Addressing Previous TA Comments:
+- **Comment:** Be careful to not copy text form your proposal usage scenario into your README.md. You need a separate description!
+- **How this was address:** We wrote an eloquent introduction to our app. Read it, you'll be inspired.
+<br>
+- **Comment:** It is not entirely clear what interactivity is included. You could add a little paragraph outlining major features and interactivity.
+- **How this was address:** Fret not! A big paragraph has been added in README.md file outlining all the features and interactivity of our lovely app.
+<br>
+- **Comment:** Team work contract could be more specific.
+- **How this was address:** We agree! We added section on what each person is repsonsible for.
+<br>
+- **Comment:** Research Questions you want to answer are not clear.
+- **How this was address:** Which research question? Your question is not clear either.
+<br>
+- **Comment:** You needed to update your proposal based on the feedback you previously received from Stef
+- **How this was address:** Will do! Doing! Done!
+<br>
+- **Comment:** Looking at your Python dashboard, if a user lands to your dashboard, it is not clear what your data is showing. What is the time period? Is this global? Is the first plot showing average numbers? How many events was this calculated for? Death rate corresponds to total global deaths? Having a few sentences related to your data would be useful, and improving titles as well
+- **How this was address:** Yep, added some sentences at the top to address these issues. To answer your questions though, yes, yes, yes and yes! 
+<br>
+- **Comment:** Last plot has confusing units, see if there is a way to improve this
+- **How this was address:** We added a description at the top to help explain what this plot is doing. But for real though, confusion is simply a state of mind. Do some meditation! Buddha became clairvoyant through meditation. Have you ever heard of Buddha being confused? No! 😇
+<br>
+- **Comment:** Team contract is ok but it would've been better to have specific meeting dates
+- **How this was address:** Life is ever changing, each a flowing river. It is important to live life as it is, dont't overplan stuff! Imagine how mundane life would be if it were deterministic. Each of us a gear in the great big machine of society. To avoid this, we decided to be spontaneous. Work when we can! Let it be 9pm, 2am, in class! As long as it's done before the due date, we gucci.
+
 ## Areas where our app does well:
 - God damn this app is sexy.
 - The colors used is very good. It is color-blind people friendly.
